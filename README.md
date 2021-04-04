@@ -19,7 +19,7 @@ The scope of this project is to develop an efficient artificial intelligence bas
 * The system shall display the training loss curve, training accuracy curve, confusion matrix and classification report to the user and save it on the disk.
 
 ## Use Case Diagram
-
+![](Images/Use%20case%20diagram.png)
 
 ## Confusion Matrix
-
+![](Images/confusion_matrix.png)
