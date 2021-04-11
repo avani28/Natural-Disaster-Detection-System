@@ -1,4 +1,4 @@
-# Natural-Disaster-Detection-System-using-Deep-Learning-and-Computer-Vision-
+# Natural Disaster Detection System using Deep Learning and Computer Vision
 
 ## Introduction
 The scope of this project is to develop an efficient artificial intelligence based software that can detect natural disasters from a video clip. This project utilises the concept of Computer Vision and Deep Learning to augment machines such as seismic sensor, flood sensors, etc. with a software that can detect the natural disaster and classify it in less time. This way the process of detection will become fast and the precautionary measures could be communicated to large masses in less time.
